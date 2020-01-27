@@ -1,4 +1,4 @@
-# XPERIA A FEAT. HATSUNE MIKU SYSTEMLESS SOUNDS
+# XPERIA A FEAT. HATSUNE MIKU SYSTEMLESS SOUND PACK
 
 **Attention!** Some sounds have to be set manually through settings such as your default alarm sound, default notifications sound, and Phone ringtone!
 
