@@ -8,3 +8,5 @@ Changelog
 
 27/01/20
 -Initial Release
+
+**BIG THANKS TO**  Tad-Liou@XDA, YCx@XDA, and lloydho_aka_aurajp for dumping the system files! I'm just making it into magisk module.
