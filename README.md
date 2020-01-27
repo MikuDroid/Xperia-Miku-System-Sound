@@ -10,3 +10,5 @@ Changelog
 -Initial Release
 
 **BIG THANKS TO**  Tad-Liou@XDA, YCx@XDA, and lloydho_aka_aurajp for dumping the system files! I'm just making it into magisk module.
+
+Some modifications by me is only adding "Find Your Miku Content.zip" music's folder into system's notifications folder. Because I think it's considered as a notifications.
