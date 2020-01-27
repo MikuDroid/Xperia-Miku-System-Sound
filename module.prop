@@ -1,0 +1,7 @@
+id=xperia-a-sound
+name=Xperia A feat. Hatsune Miku Sound Pack
+version=1
+versionCode=1
+author=MikuDroid, Tad-Liou@XDA
+description=This module adds the Xperia A feat. Hatsune Miku sounds to any ROM, systemlessly.
+minMagisk=17000
